@@ -31,8 +31,6 @@ The model achieves a **test accuracy of 90.44%** on environmental noise classifi
 
 ## Methodology
 
-```markdown
 ![Pipeline for Environmental Noise Extraction and Classification](images/fig1_pipeline.png)
 ![Feature Extraction using MFCC](images/fig2_mfcc_.png)
 ![Confusion Matrix](images/fig7_confusion_matrix.png)
-```
