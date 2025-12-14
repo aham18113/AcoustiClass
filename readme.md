@@ -25,14 +25,11 @@ This project:
    - Siren
    - Street Music :contentReference[oaicite:1]{index=1}
 
-The model achieves a **test accuracy of 90.44%** on environmental noise classification.:contentReference[oaicite:2]{index=2}
+The model achieves a **test accuracy of 90.44%** on environmental noise classification.
 
 ---
 
 ## Methodology
-
-You can refer to the paper PDF for detailed explanation and figures (block diagrams, FFT plots, confusion matrix, etc.).
-Typical README image links (after exporting figures as images) might look like:
 
 ```markdown
 ![Pipeline for Environmental Noise Extraction and Classification](images/fig1_pipeline.png)
