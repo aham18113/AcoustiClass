@@ -23,7 +23,7 @@ This project:
    - Gun Shot
    - Jackhammer
    - Siren
-   - Street Music :contentReference[oaicite:1]{index=1}
+   - Street Music
 
 The model achieves a **test accuracy of 90.44%** on environmental noise classification.
 
@@ -31,6 +31,14 @@ The model achieves a **test accuracy of 90.44%** on environmental noise classifi
 
 ## Methodology
 
+### Pipeline for Environmental Noise Extraction and Classification
+
 ![Pipeline for Environmental Noise Extraction and Classification](images/fig1_pipeline.png)
+
+### Feature Extraction using MFCC
+
 ![Feature Extraction using MFCC](images/fig2_mfcc_.png)
+
+### Confusion Matrix
+
 ![Confusion Matrix](images/fig7_confusion_matrix.png)
